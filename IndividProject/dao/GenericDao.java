@@ -8,7 +8,7 @@ import java.util.logging.Logger;
 
 public class GenericDao {
     private final String USERNAME = "root";
-    private final String PASS = "Giannis1986!@";
+    private final String PASS = "";
     private final String URL = "jdbc:mysql://localhost:3306/privateschool";
     private Connection conn;
     
